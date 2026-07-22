@@ -1,0 +1,8 @@
+<resources>
+    <color name="qk_bg">#090B10</color>
+    <color name="qk_panel">#141924</color>
+    <color name="qk_panel_alt">#1B2230</color>
+    <color name="qk_text">#F3F7FF</color>
+    <color name="qk_muted">#AAB5C7</color>
+    <color name="qk_accent">#77D8FF</color>
+</resources>
